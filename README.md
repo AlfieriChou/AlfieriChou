@@ -1,16 +1,42 @@
-### Hi there 👋
+### Hi I'm AlfieriChou
 
-<!--
-**AlfieriChou/AlfieriChou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const alfierichou = {
+    code: ["Javascript", "Typescript", "Go"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Vue"],
+            css: ["bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "koa", "express", "egg", "loopback"],
+            ts: ["node", "nest", "loopback-next", "deno", "oak", "alosaur"]
+        },
+        messageQueue: ["rabbitMQ", "kafka", "amqp", "mqtt"],
+        rpc: ["gRPC"],
+        devOps: ["Docker", "Nginx", "K8S", ...aliyun],
+        databases: ["MySql", "mongo", "influx", "tablestore"],
+        misc: ["Pipedream", "Socket.IO", "Serverless"],
+        OS: ["centOS", "alpine"],
+        tools: ["ffmpeg"],
+        CI: ["github action", "gitlab CI"]
+    }
+};
+```
 
-Here are some ideas to get you started:
+<img
+  src="https://github-readme-stats.vercel.app/api?username=AlfieriChou&show_icons=true&locale=en"
+  width="54%"
+/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfieriChou&layout=compact"
+  width="45.3%"
+/>
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img
+  src="https://github-profile-trophy.vercel.app/?username=AlfieriChou&row=2&column=3"
+  width="45.5%"
+  align="center"
+/>
