@@ -9,7 +9,7 @@ const alfierichou = {
             css: ["bootstrap"]
         },
         backEnd: {
-            js: ["node", "koa", "express", "egg", "loopback"],
+            js: ["node", "koa", "express", "egg", "loopback", "galenjs"],
             ts: ["node", "nest", "loopback-next", "deno", "oak", "alosaur"]
         },
         messageQueue: ["rabbitMQ", "kafka", "amqp", "mqtt"],
